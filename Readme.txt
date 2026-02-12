@@ -1,0 +1,1 @@
+In order to change what image is set as your wallpaper, Please enable 'Show file extensions' in your preferred file manager and rename any files with the name 'TranscodedWallpaper' to something else. Rename your desired image to 'TranscodedWallpaper' Without any file extensions and move it to the main folder.
